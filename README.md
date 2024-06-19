@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Achessa
-- I’m interested in Cybersecurity and Software Development.
+-  Cybersecurity specialist and Software Developer.
 - Certified in Digital Forensic and Threat Intelligence.
 - Looking to collaborate on Software Development and Cysec projects.
 - Reachable through email @Winnie.vanessa32@gmail.com
