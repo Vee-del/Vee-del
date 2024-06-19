@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Achessa
+- 👋 Hi, My name is Vanessa Achessa
 -  Cybersecurity specialist and Software Developer.
 - Certified in Digital Forensics and Threat Intelligence.
 - Looking to collaborate on Software Development and Cysec projects.
