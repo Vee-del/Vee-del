@@ -1,26 +1,25 @@
-- 👋 Hi, My name is Vanessa Achessa
--  Cybersecurity specialist and Software Developer.
-- Certified in Digital Forensics and Threat Intelligence.
-- Ethical Hacker
-- Looking to collaborate on Software Development( Database Administration, frontend and backend as well as Cysec projects.
-- Building tools that secure the web and empower users in Africa and beyond.
 
-- <h1 align="center">Hi, I'm Winnie 👋</h1>
+- <h1 align="center">Hi, I'm Vanessa Achessa 👋</h1>
 <p align="center">
   💻 Software Engineer | 🛡 Cybersecurity Specialist | 🌍 UN Volunteer | 🎓 Criminology + InfoSec | Ethical hacker
 </p>
 
 
-🚀 Tech Stack
+🧰 Tech Stack
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" />  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel" />  <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" alt="PostgreSQL" />
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="Tailwind" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" alt="FastAPI" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" alt="Firebase" />
+</p>
 
 
 🎯 Current Projects
 
 - 🔐 **PhishSentry** – Real-time phishing detection using ML + FastAPI
-- 🗺️ **NUP Tracker** – Laravel tool for national urban policy dashboards
 - 🔍 **Leave Management Tool** – Google Script + Power Automate for HR workflows
 
 🌐 Let's Connect
