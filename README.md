@@ -5,7 +5,7 @@
 </p>
 
 
-🧰 Tech Stack
+<h4 align="center">🧰 Tech Stack </h4>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" />
@@ -28,11 +28,18 @@
 
 🌱 About Me
 
-- 🔭 I’m currently refining my Cybersecurity skills integrating them with Software Development projects
-- 🎓 Background in Criminology and Criminal Justice + Ethical Hacking
-- 💬 Ask me about building secure web apps or hacking CTFs
+🔭 I’m currently refining my Cybersecurity skills by integrating them with Software Development projects
 
-📫 Let's Connect
+🧠 AI Enthusiast passionate about applying NLP and ML to real-world problems <img src="https://cdn.simpleicons.org/openai/412991" width="20" alt="AI" />
+
+✍️ Technical Writer who breaks down complex topics into digestible content <img src="https://cdn.simpleicons.org/readthedocs/8CA1AF" width="20" alt="Docs" />
+
+🎓 Background in Criminology and Criminal Justice + Ethical Hacking
+
+💬 Ask me about building secure web apps or hacking CTFs
+
+
+<h4 align="center"> Let's Connect! </h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/winnie-vanessa-74a251110" target="_blank">
