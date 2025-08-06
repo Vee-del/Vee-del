@@ -5,14 +5,16 @@
 - Looking to collaborate on Software Development( Database Administration, frontend and backend as well as Cysec projects.
 - Building tools that secure the web and empower users in Africa and beyond.
 
+- <h1 align="center">Hi, I'm Winnie 👋</h1>
+<p align="center">
+  💻 Software Engineer | 🛡 Cybersecurity Specialist | 🌍 UN Volunteer | 🎓 Criminology + InfoSec | Ethical hacker
+</p>
+
 
 🚀 Tech Stack
 
 <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" />  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel" />  <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" alt="PostgreSQL" />
-<script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
-<span class="iconify" data-icon="logos:python" style="font-size: 40px;"></span>
-<span class="iconify" data-icon="logos:laravel" style="font-size: 40px;"></span>
-<span class="iconify" data-icon="logos:postgresql" style="font-size: 40px;"></span>
+
 
 
 🎯 Current Projects
