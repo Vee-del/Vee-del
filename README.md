@@ -19,6 +19,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 
 
+🎯 Current Projects
+
+- 🔐 **PhishSentry** – Real-time phishing detection using ML + FastAPI
+- 🗺️ **NUP Tracker** – Laravel tool for national urban policy dashboards
+- 🔍 **Leave Management Tool** – Google Script + Power Automate for HR workflows
+
+🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winnie-vanessa-74a251110/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](winnie.vanessa32@gmail.com)
 <!---
 Vee-del/Vee-del is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
