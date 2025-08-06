@@ -4,7 +4,6 @@
 - Ethical Hacker
 - Looking to collaborate on Software Development( Database Administration, frontend and backend as well as Cysec projects.
 - Building tools that secure the web and empower users in Africa and beyond.
-- Reachable through email @Winnie.vanessa32@gmail.com
 
 
 🚀 Tech Stack
