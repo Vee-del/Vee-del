@@ -17,10 +17,13 @@
 </p>
 
 
-🎯 Current Projects
+📝 Featured Projects
 
-- 🔐 **PhishSentry** – Real-time phishing detection using ML + FastAPI
-- 🔍 **Leave Management Tool** – Google Script + Power Automate for HR workflows
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🕵️‍♀️ **PhishSentry** | FastAPI, Tailwind, PostgreSQL | AI-powered phishing detection dashboard |
+| 🧠 **DocuScope AI** | Python, HuggingFace | NLP-based document analyzer using transformers |
+| 🏛 **NUP System** | Laravel, Vue.js | Web app for national urban policy listings |
 
 🌐 Let's Connect
 
