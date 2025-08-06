@@ -8,7 +8,7 @@
 
 🚀 Tech Stack
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" /><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel" /><img src="https://cdn.simpleicons.org/postgresql/336791" width="40" alt="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" />  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel" />  <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" alt="PostgreSQL" />
 
 
 🎯 Current Projects
