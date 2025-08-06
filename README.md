@@ -9,13 +9,8 @@
 🚀 Tech Stack
 
 <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" />
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-333?style=flat&logo=tailwind-css)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel" />
+<img src="https://cdn.simpleicons.org/postgresql/336791" width="40" alt="PostgreSQL" />
 
 
 🎯 Current Projects
