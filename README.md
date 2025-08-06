@@ -28,6 +28,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winnie-vanessa-74a251110/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](winnie.vanessa32@gmail.com)
+
+![Commit Frequency](https://img.shields.io/badge/commits-daily-brightgreen)
+![Code Quality](https://img.shields.io/badge/code_style-clean-blue)
 <!---
 Vee-del/Vee-del is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
