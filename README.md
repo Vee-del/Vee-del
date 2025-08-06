@@ -1,7 +1,7 @@
 
 - <h1 align="center">Hi, I'm Vanessa Achessa 👋</h1>
 <p align="center">
-  💻 Software Engineer | 🛡 Cybersecurity Specialist | 🌍 UN Volunteer | 🎓 Criminology + InfoSec | Ethical hacker
+  💻 Software Engineer | 🛡 Cybersecurity Specialist | 🌍 Ethical Hacker | 🎓 Criminology + InfoSec | 
 </p>
 
 
@@ -24,6 +24,21 @@
 | 🕵️‍♀️ **PhishSentry** | FastAPI, Tailwind, PostgreSQL | AI-powered phishing detection dashboard |
 | 🧠 **DocuScope AI** | Python, HuggingFace | NLP-based document analyzer using transformers |
 | 🏛 **NUP System** | Laravel, Vue.js | Web app for national urban policy listings |
+
+
+🌱 About Me
+
+- 🔭 I’m currently refining my Cybersecurity skills integrating them with Software Development projects
+- 🎓 Background in Criminology and Criminal Justice + Ethical Hacking
+- 💬 Ask me about building secure web apps or hacking CTFs
+
+📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/winnie-vanessa-74a251110/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30"/></a>
+  <a href="winnie.vanessa32@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"/></a>
+  <a href="https://thecyberhound.wordpress.com"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="30"/></a>
+</p>
 
 🌐 Let's Connect
 
