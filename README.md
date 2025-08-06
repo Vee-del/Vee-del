@@ -35,7 +35,7 @@
 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/winnie-vanessa-74a251110/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30"/></a>
+  <a href="https://linkedin.com/in/winnie-vanessa-74a251110"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30"/></a>
   <a href="winnie.vanessa32@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"/></a>
   <a href="https://thecyberhound.wordpress.com"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="30"/></a>
 </p>
