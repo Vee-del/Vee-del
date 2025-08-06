@@ -8,7 +8,7 @@
 
 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
